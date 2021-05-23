@@ -32,12 +32,9 @@ namespace MazeSolvingApp
             if (!positionHistory.Any(p => p.SequenceEqual(new int[] { xPosition, yPosition })))
             {
                 positionHistory.Add(new int[] { xPosition, yPosition });
-                maze[xPosition, yPosition] = 2;
             }
-            else
-            {
-                maze[xPosition, yPosition] = 9;
-            }
+
+            maze[xPosition, yPosition] = 2;
 
             //recursion
             if (maze[(xPosition - 1), yPosition] == 0)
