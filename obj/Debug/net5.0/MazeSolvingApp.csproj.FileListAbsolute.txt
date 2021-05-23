@@ -1,0 +1,15 @@
+/Users/adilsezer/Desktop/MazeSolvingApp/bin/Debug/net5.0/MazeSolvingApp.deps.json
+/Users/adilsezer/Desktop/MazeSolvingApp/bin/Debug/net5.0/MazeSolvingApp.runtimeconfig.json
+/Users/adilsezer/Desktop/MazeSolvingApp/bin/Debug/net5.0/MazeSolvingApp.runtimeconfig.dev.json
+/Users/adilsezer/Desktop/MazeSolvingApp/bin/Debug/net5.0/MazeSolvingApp.dll
+/Users/adilsezer/Desktop/MazeSolvingApp/bin/Debug/net5.0/ref/MazeSolvingApp.dll
+/Users/adilsezer/Desktop/MazeSolvingApp/bin/Debug/net5.0/MazeSolvingApp.pdb
+/Users/adilsezer/Desktop/MazeSolvingApp/obj/Debug/net5.0/MazeSolvingApp.csprojAssemblyReference.cache
+/Users/adilsezer/Desktop/MazeSolvingApp/obj/Debug/net5.0/MazeSolvingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adilsezer/Desktop/MazeSolvingApp/obj/Debug/net5.0/MazeSolvingApp.AssemblyInfoInputs.cache
+/Users/adilsezer/Desktop/MazeSolvingApp/obj/Debug/net5.0/MazeSolvingApp.AssemblyInfo.cs
+/Users/adilsezer/Desktop/MazeSolvingApp/obj/Debug/net5.0/MazeSolvingApp.csproj.CoreCompileInputs.cache
+/Users/adilsezer/Desktop/MazeSolvingApp/obj/Debug/net5.0/MazeSolvingApp.dll
+/Users/adilsezer/Desktop/MazeSolvingApp/obj/Debug/net5.0/ref/MazeSolvingApp.dll
+/Users/adilsezer/Desktop/MazeSolvingApp/obj/Debug/net5.0/MazeSolvingApp.pdb
+/Users/adilsezer/Desktop/MazeSolvingApp/obj/Debug/net5.0/MazeSolvingApp.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MazeSolvingApp/1.0.0": {
+        "runtime": {
+          "MazeSolvingApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MazeSolvingApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
